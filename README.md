@@ -36,11 +36,11 @@ The model successfully classifies movie reviews and demonstrates the effectivene
 
 ## Streamlit Application
 
-Users can enter a movie review and receive an instant sentiment prediction.
+This Streamlit application allows users to enter a movie review and instantly receive a sentiment prediction. The trained Deep Learning model analyzes the review text and classifies it as either positive or negative.
 
 ## Hugging Face Space
 
-https://huggingface.co/spaces/MSK34/IMDB-Deep-Learning-Sentiment-Analysis
+[Live Demo](https://huggingface.co/spaces/MSK34/IMDB-Deep-Learning-Sentiment-Analysis)
 
 ## Disclaimer
 
